@@ -10,3 +10,8 @@ This repository contains the code for building a model to generate Python docume
 
 ## Repository Structure
 - `article/`: Contains the LaTeX source files for the article as well as the compiled PDF.
+
+## Notable Files
+- `article/report.pdf`: The compiled article.
+- `article/report.tex`: The LaTeX source file for the article.
+- `article/refs.bib`: The BibTeX file containing the references for the article.
