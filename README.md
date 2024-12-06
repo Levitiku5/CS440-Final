@@ -10,8 +10,10 @@ This repository contains the code for building a model to generate Python docume
 
 ## Repository Structure
 - `article/`: Contains the LaTeX source files for the article as well as the compiled PDF.
+- `DocstringGen/`: Contains the code for the model.
+- `ollama/`: Docstring generation examples using ollama.
+- `final.py`: Reads a .py file and generates a README.md file containing a summary of the code's structure, including functions, classes, and meaningful comments.
 
 ## Notable Files
 - `article/report.pdf`: The compiled article.
-- `article/report.tex`: The LaTeX source file for the article.
-- `article/refs.bib`: The BibTeX file containing the references for the article.
+- `DocstringGen/DocStringGen.ipynb`: The Jupyter notebook containing the code for the model.
