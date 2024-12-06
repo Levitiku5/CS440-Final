@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{qodoAI2024idePlugin}
+Qodo AI.
+\newblock Ide plugin for ai-assisted development, 2024.
+\newblock Accessed: 2024-12-06.
+
+\bibitem{awekrx2024autodoc}
+Awekrx.
+\newblock Autodoc-chatgpt: documentation generation using chatgpt, 2024.
+\newblock Accessed: 2024-12-06.
+
+\bibitem{google2023aiFuzzing}
+Google~Security Blog.
+\newblock Ai-powered fuzzing: breaking bug hunting barriers, August 2023.
+\newblock Accessed: 2024-12-06.
+
+\bibitem{chen2023oodGeneralization}
+Tianle Chen, Mingjie Li, and Shengyu Zha.
+\newblock Towards understanding out-of-distribution generalization of
+  pre-trained language models.
+\newblock {\em arXiv}, May 2023.
+
+\bibitem{emerald2019csrImpact}
+Emerald Group~Publishing Limited.
+\newblock Corporate social responsibility and firm value: the moderating role
+  of governance mechanisms.
+\newblock {\em Advances in Corporate Governance Research}, 16, 2019.
+\newblock Accessed: 2024-12-06.
+
+\bibitem{cso2024aiFuzzing}
+CSO Online.
+\newblock What is ai fuzzing and why it may be the next big cybersecurity
+  threat, 2024.
+\newblock Accessed: 2024-12-06.
+
+\bibitem{google2023codeReviewML}
+Google Research.
+\newblock Resolving code review comments with ml, 2023.
+\newblock Accessed: 2024-12-06.
+
+\bibitem{wiggers2023largeModels}
+Kyle~M. Wiggers, James Smith, and Xinyi Zhao.
+\newblock Enhanced large language models for multi-modal research synthesis.
+\newblock {\em arXiv}, July 2023.
+
+\end{thebibliography}
