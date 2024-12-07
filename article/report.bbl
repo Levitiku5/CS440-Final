@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{qodoAI2024idePlugin}
 Qodo AI.
@@ -20,6 +20,11 @@ Tianle Chen, Mingjie Li, and Shengyu Zha.
 \newblock Towards understanding out-of-distribution generalization of
   pre-trained language models.
 \newblock {\em arXiv}, May 2023.
+
+\bibitem{ghassemiazghandi2024evaluation}
+Mozhgan Ghassemiazghandi.
+\newblock An evaluation of chatgpt's translation accuracy using bleu score.
+\newblock {\em Theory and Practice in Language Studies}, 14(4):500--507, 2024.
 
 \bibitem{emerald2019csrImpact}
 Emerald Group~Publishing Limited.
