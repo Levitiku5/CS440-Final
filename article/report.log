@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.13)  6 DEC 2024 23:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.13)  6 DEC 2024 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,7 +395,7 @@ ode[]x[]glue[]ct[]code[]to[]text.
  []
 
 [2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3]
-(./report.bbl) [4] (./report.aux)
+[4] (./report.bbl) [5] (./report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -404,8 +404,8 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 8ADAE2538135529B8B4A0ADFABAFE062;647.
  ) 
 Here is how much of TeX's memory you used:
- 11775 strings out of 476076
- 176014 string characters out of 5793774
+ 11777 strings out of 476076
+ 176031 string characters out of 5793774
  1938187 words of memory out of 5000000
  33720 multiletter control sequences out of 15000+600000
  562862 words of font info for 54 fonts, out of 8000000 for 9000
@@ -416,10 +416,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1
 200.pfb>
-Output written on report.pdf (4 pages, 82244 bytes).
+Output written on report.pdf (5 pages, 83261 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
