@@ -1,5 +1,0 @@
-Our model scores horribly compared to other general models such as ChatGPT-4 with a BLEU
-score of 0.88 and MateCat with a BLEU score of 0.82. [5] This is to be expected, however, as our
-model was trained with a very limited number of epochs on a smaller dataset. It is interesteing
-to observe that we still got a competent docstring that, while not fully accurate, still conveys the
-general idea of the code and not randomness or noises from each return function or print statements it gets the general idea of what the code is doing. We belive that with further training, the model will be able to see what environment the code is suppose to usefor. and not only see what library its using but why its using it.
